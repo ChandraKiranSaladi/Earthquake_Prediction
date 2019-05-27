@@ -1,0 +1,5 @@
+# Ignoring .pyc Files
+*.pyc
+
+# Ignoring ipynb Checkpoints folder
+.ipynb_checkpoints/*
